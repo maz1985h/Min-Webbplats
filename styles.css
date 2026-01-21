@@ -3,13 +3,17 @@ body {
     padding-left: 20px;
     margin: 0;
     background-color: #9DCBBA;
+    color: #222
 }
 
 h1 {
+    font-size: 28px;
     color: rgb(54, 26, 81);
     
 }
 
 p {
+    font-size: 16px;
     color:#555
+    line-height: 1.6;
 }
